@@ -1,0 +1,11 @@
+<html>
+<head>
+Hello World!! <br>
+Extra line inserted.
+<<<<<<< HEAD
+... and another one on the master branch.
+=======
+... and sg. else...
+>>>>>>> feature1
+</head>
+</html>
